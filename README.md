@@ -4,4 +4,4 @@ This is a test for using push
 
 Edit on example branch
 
-Updated locally
+Updated locally, then remotely
